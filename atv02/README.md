@@ -1,0 +1,2 @@
+## Este projeto é dedicado a resolução da atividade de Padrões de Software proposta pelo professor da disciplina de Reuso de Software. 
+## O projeto foi implementado na linguagem Java utilizando o Padrão Singleton.
