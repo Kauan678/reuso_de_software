@@ -1,6 +1,0 @@
-[workspace]
-members = [
-    "03_restaurant",
-    "04_use_restaurant"
-]
-resolver = "2"
